@@ -1,5 +1,5 @@
 import java.util.*;
-
+//This class creates the gameboard for the program, as well as creates/implements methods that are used in the client class
 public class Board {
     private String[][] board;
     private String player1 = "X";
